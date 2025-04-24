@@ -1,2 +1,2 @@
-# time_management_app
-Data analytics project about consultant time management
+# Time Management app for the consultants
+Miska and Tomi, Week 3, Group work
